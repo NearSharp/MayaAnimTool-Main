@@ -1,5 +1,5 @@
 # MayaAnimTool-Main
-This Python script provides a simple GUI for adjusting render resolution and making playblasts in Autodesk Maya. It uses PySide6 for the user interface.
+This Python script provides a simple GUI for adjusting render resolution and making playblasts in Autodesk Maya. It uses PySide2 for the user interface.
 
 ## Features
 
