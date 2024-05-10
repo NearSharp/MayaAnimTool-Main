@@ -9,7 +9,7 @@ This Python script provides a simple GUI for adjusting render resolution and mak
 ## Requirements
 
 - Autodesk Maya
-- PySide6
+- PySide2
 
 ## Usage
 
