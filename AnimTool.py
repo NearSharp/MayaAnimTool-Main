@@ -1,7 +1,6 @@
 #PRESS ALT + SHIFT + M
 import maya.cmds as cmds
-from PySide6.QtWidgets import QApplication, QMainWindow, QWidget, QVBoxLayout, QLabel, QPushButton, QLineEdit
-
+from PySide2.QtWidgets import QApplication, QMainWindow, QWidget, QVBoxLayout, QLabel, QPushButton, QLineEdit
 
 class PlayblastWindow(QMainWindow):
     def __init__(self):
@@ -63,3 +62,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
